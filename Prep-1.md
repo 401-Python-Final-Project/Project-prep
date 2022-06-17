@@ -24,9 +24,9 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 **Jacob** wants to work on communication and confidence in technical skills
 
-**Christopher** Communication, Teamwork, Collaboration
+**Christopher** 
 
-**James** Problem Solving, Communication
+**James** 
 
 **Cole** Verbal Communication, Networking, Collaboration
 
