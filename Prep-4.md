@@ -7,5 +7,6 @@
 
 
 **Domain Modeling**
+<img width="1148" alt="domain model" src="https://user-images.githubusercontent.com/91853244/174410343-1e59fee0-c56c-412e-9b5b-f9717b495c95.png">
 
 
