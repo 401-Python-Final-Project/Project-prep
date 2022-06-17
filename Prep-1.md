@@ -10,9 +10,9 @@ Jacob Choi
 
 **Jacob** Program Management, JavaScript, Creative, Communication, Team Building
 
-**Member 2** 
+**Christopher** 
 
-**Member 3** 
+**James** 
 
 **Cole** Organization and Planning 
 
@@ -24,9 +24,9 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 **Jacob** wants to work on communication and confidence in technical skills
 
-**Member 2l** Communication, Teamwork, Collaboration
+**Christopher** Communication, Teamwork, Collaboration
 
-**Member 3** Problem Solving, Communication
+**James** Problem Solving, Communication
 
 **Cole** Verbal Communication, Networking, Collaboration
 
