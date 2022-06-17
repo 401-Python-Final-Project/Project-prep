@@ -12,7 +12,7 @@ Jacob Choi
 
 **Christopher** - Troubleshooting/debugging Python code, Jira (PM software) experience, Communication/mediation
 
-**James** - 
+**James** - Strong technical skills, great at Python and Front-End Structure, can execute problems with guidance and minimal help needed, strong ability to adapt and be flexible with the project's code.
 
 **Cole** - Organization and Planning 
 
@@ -26,7 +26,7 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 **Christopher** - Improve agile skills/familiarity, time management, tool proficiency (use more PyCharm and get experience with Flask)
 
-**James** - 
+**James** - Improve communication within team environment
 
 **Cole** - Verbal Communication, Networking, Collaboration
 
@@ -50,6 +50,7 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
   * Jacob 9AM-4PM (after hours if needed)
   * Cole 9AM - 6PM (hard stop at 6PM; can come back at 8PM or 9PM if needed)
   * Chris 9AM - 5PM (after hours if needed)
+  * James 9AM - 6PM (After Hours if Needed)
 
  
 * **Communication Platforms?**
