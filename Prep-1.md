@@ -12,7 +12,7 @@ Jacob Choi
 
 **Christopher** 
 
-**James** 
+**James** Strong technical skills, great at Python and Front-End Structure, can execute problems with guidance and minimal help needed, strong ability to adapt and be flexible with the project's code.
 
 **Cole** Organization and Planning 
 
@@ -26,7 +26,7 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 **Christopher** 
 
-**James** 
+**James** Improve communication within team environment
 
 **Cole** Verbal Communication, Networking, Collaboration
 
@@ -48,14 +48,12 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 * **Availability**
   * Jacob 9AM-4PM (after hours if needed)
-  * Bishal 9AM-4PM (after hours if needed)
-  * Roger 9:00 AM - 6:00PM
   * Cole 9AM - 6PM (hard stop at 6PM; can come back at 8PM or 9PM if needed)
-  * Tai 9:00- 16:00 - After Hours Via Slack -> Emergencies Text Me
+  * James 9AM - 6PM (After Hours if Needed)
  
 * **Communication Platforms?**
   * Slack
-  * Remo
+  * Zoom
 
 ### Breaks and off hours
 
