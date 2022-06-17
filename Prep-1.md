@@ -8,13 +8,13 @@ Jacob Choi
 
 ### Team Key Strengths?
 
-**Jacob** Program Management, JavaScript, Creative, Communication, Team Building
+**Jacob** - Program Management, JavaScript, Creative, Communication, Team Building
 
-**Christopher** Troubleshooting/debugging Python code, Jira (PM software) experience, Communication/mediation
+**Christopher** - Troubleshooting/debugging Python code, Jira (PM software) experience, Communication/mediation
 
-**James** 
+**James** - 
 
-**Cole** Organization and Planning 
+**Cole** - Organization and Planning 
 
 **How are we going to utilize these strengths?**
 
@@ -22,13 +22,13 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 **What professional competencies do you want work on?**
 
-**Jacob** wants to work on communication and confidence in technical skills
+**Jacob** - wants to work on communication and confidence in technical skills
 
-**Christopher** Improve agile skills/familiarity, time management, tool proficiency (use more PyCharm and get experience with Flask)
+**Christopher** - Improve agile skills/familiarity, time management, tool proficiency (use more PyCharm and get experience with Flask)
 
-**James** 
+**James** - 
 
-**Cole** Verbal Communication, Networking, Collaboration
+**Cole** - Verbal Communication, Networking, Collaboration
 
 ### Day to day work schedule
 
@@ -79,7 +79,7 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 **Project Management Tool Link:**
 
-Jira (like to follow)
+Jira (link to follow)
 
 ## Presentation Deck
 
