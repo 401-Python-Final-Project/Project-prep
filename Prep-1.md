@@ -1,6 +1,6 @@
 # Project-Prep
 
-## 401 Final Project - TBD
+## 401 Final Project - Weather Bool
 
 Jacob Choi
 
